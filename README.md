@@ -73,7 +73,7 @@ The dataset contains transactional sales data, including:
 ## 🖼️ Dashboard Preview
 
 ```md
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard Image.png)
 ```
 
 
